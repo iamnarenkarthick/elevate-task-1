@@ -54,7 +54,6 @@ Usage Instructions:
 Setup:
 
 Ensure that you have the required Python libraries (requests and tkinter).
-Replace "your_openweathermap_api_key_here" in the script with your actual OpenWeatherMap API key.
 Running the Application:
 
 Run the Python script in your development environment.
